@@ -6,7 +6,7 @@
      "HopitalID":1,
      "HospitalPhoneNumber":"703-591-3304",
      "HospitalSite":"https://pendervet.com/",
-     "HospitalImage":"Add Image"},
+     "HospitalImage":"https://raw.githubusercontent.com/srshin11/JSONProjectsIT315/master/PenderVet.jpg"},
    {"HospitalName":"VCA SouthPaws Vet",
      "HospitalAddress":"8500 Arlington Blvd, Fairfax, VA 22031",
      "HopitalID":2,
